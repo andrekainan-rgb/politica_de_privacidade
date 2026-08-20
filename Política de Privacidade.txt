@@ -1,0 +1,14 @@
+Política de Privacidade
+
+Este aplicativo usa a API da Biblioteca de Anúncios do Facebook para pesquisar e visualizar anúncios públicos. 
+
+O aplicativo:
+- Não coleta dados pessoais dos usuários
+- Não armazena informações de usuários
+- Não compartilha dados com terceiros
+- Apenas consulta anúncios públicos
+
+Os dados são usados exclusivamente para fins de pesquisa e análise.
+
+Contato: [SEU_EMAIL]
+Data: 20/08/2026
